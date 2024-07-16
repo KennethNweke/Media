@@ -6,5 +6,5 @@
 ## 2 Pentesting Pre Project Session
 [![Watch the video](https://img.youtube.com/vi/4vsrLXn6ZC8/maxresdefault.jpg)](https://www.youtube.com/watch?v=4vsrLXn6ZC8)
 
-## 2 Pentesting Pre Project Session
+## 3 ANSP Training Session
 [![Watch the video](https://img.youtube.com/vi/i-N7XK0mXlE/maxresdefault.jpg)](https://www.youtube.com/watch?v=i-N7XK0mXlE)
