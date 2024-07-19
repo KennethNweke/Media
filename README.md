@@ -8,3 +8,13 @@
 
 ## 3 ANSP Training Session
 [![Watch the video](https://img.youtube.com/vi/i-N7XK0mXlE/maxresdefault.jpg)](https://www.youtube.com/watch?v=i-N7XK0mXlE)
+
+
+## 3 Rack & Stack
+
+|-----------------------------------------------|----------------------------|
+|   ![1648569175848](https://github.com/user-attachments/assets/dae5bfcd-fb14-46e8-ac34-8d330ce6d5b3)    | |
+|       | |
+
+
+
